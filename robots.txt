@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cumindiuste.github.io/sitemap
+Sitemap: https://cumindiuste.github.io/app/sitemap
+Sitemap: https://cumindiuste.github.io/assets/sitemap
+Sitemap: https://cumindiuste.github.io/css/sitemap
+Sitemap: https://cumindiuste.github.io/includes/sitemap
+Sitemap: https://cumindiuste.github.io/item/sitemap
+Sitemap: https://cumindiuste.github.io/src/sitemap
